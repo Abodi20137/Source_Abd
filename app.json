@@ -1,7 +1,7 @@
 {
-    "name": "سورس جيبثون العرب",
+    "name": "‹ 𝖲𝗈𝗎𝗋𝖼𝖾 𝖠𝖻𝖻𝗈𝗎𝖽 ›",
     "description": "تشغيل الاغاني في المجموعات",
-    "logo": "https://te.legra.ph/file/46fa55b49b85c084159ce.jpg",
+    "logo": "https://telegra.ph/file/7d7937b2f783cc0a5f16d.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/jepthon",
-    "repository": "https://github.com/lMl10l/lMl10l",
-    "success_url": "https://t.me/jepthon",
+    "website": "https://t.me/KKVV10",
+    "repository": "https://github.com/Abodi20137/Source_Abd",
+    "success_url": "https://t.me/KKVV10",
     "env": {
      "API_ID": {
             "description": "ايبي ايدي",
